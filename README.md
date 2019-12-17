@@ -16,16 +16,19 @@ UI Mockup:
 
 ---
 <h3 id="2">執行說明</h3>
-##### 先啟動Json Server
+<h5>先啟動Json Server</h5>
+
 ```
 json-server -w data.json
 ```
-##### 再啟動VUE
+<h5>再啟動VUE</h5>
 1. 專案抓下來後執行指令：
+
 ```
 yarn install
 ```
 2. 啟動專案
+
 ```
 yarn serve
 ```
