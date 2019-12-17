@@ -1,0 +1,148 @@
+{
+  "lists": [
+    {
+      "id": "cxjv0wuuukq",
+      "isChecked": true,
+      "todoContent": "JAVA",
+      "idcode": "cxjv0wuuukq"
+    },
+    {
+      "id": "5cjy7q5pq55",
+      "isChecked": true,
+      "todoContent": "JSON",
+      "idcode": "5cjy7q5pq55"
+    },
+    {
+      "id": "yp9y7m684gh",
+      "isChecked": true,
+      "todoContent": "SPRING MVC",
+      "idcode": "yp9y7m684gh"
+    },
+    {
+      "id": "gah7lkelkcd",
+      "isChecked": true,
+      "todoContent": "JASPER REPORT",
+      "idcode": "gah7lkelkcd"
+    },
+    {
+      "id": "qhbmjl1b28n",
+      "isChecked": true,
+      "todoContent": "CSS",
+      "idcode": "qhbmjl1b28n"
+    },
+    {
+      "id": "lyphgrdv4e",
+      "isChecked": false,
+      "todoContent": "SCSS",
+      "idcode": "lyphgrdv4e"
+    },
+    {
+      "id": "jv2b5xs6dkl",
+      "isChecked": false,
+      "todoContent": "LESS",
+      "idcode": "jv2b5xs6dkl"
+    },
+    {
+      "id": "uuxe8dk9e1",
+      "isChecked": false,
+      "todoContent": "JavaScrept",
+      "idcode": "uuxe8dk9e1"
+    },
+    {
+      "id": "lvw11hy05w",
+      "isChecked": false,
+      "todoContent": "ES6",
+      "idcode": "lvw11hy05w"
+    },
+    {
+      "id": "ss4mnc87zzt",
+      "isChecked": false,
+      "todoContent": "HTML",
+      "idcode": "ss4mnc87zzt"
+    },
+    {
+      "id": "dxemk6c6tew",
+      "isChecked": false,
+      "todoContent": "PUG",
+      "idcode": "dxemk6c6tew"
+    },
+    {
+      "id": "wmkcr20jovb",
+      "isChecked": false,
+      "todoContent": "UI/UX DESIGNER",
+      "idcode": "wmkcr20jovb"
+    },
+    {
+      "id": "bpygcsvutf",
+      "isChecked": false,
+      "todoContent": "iBatis",
+      "idcode": "bpygcsvutf"
+    },
+    {
+      "id": "xazeuujcu8o",
+      "isChecked": false,
+      "todoContent": "Maven",
+      "idcode": "xazeuujcu8o"
+    },
+    {
+      "id": "ne3hxr1xs8l",
+      "isChecked": false,
+      "todoContent": "SQL",
+      "idcode": "ne3hxr1xs8l"
+    },
+    {
+      "id": "s9q5j4g06k",
+      "isChecked": false,
+      "todoContent": "jQuery",
+      "idcode": "s9q5j4g06k"
+    },
+    {
+      "id": "o8nrw3u04y9",
+      "isChecked": false,
+      "todoContent": "Adobe Illustrator",
+      "idcode": "o8nrw3u04y9"
+    },
+    {
+      "id": "9n27c33bz67",
+      "isChecked": false,
+      "todoContent": "Adobe Photoshop",
+      "idcode": "9n27c33bz67"
+    },
+    {
+      "id": "k42hh1lbt6",
+      "isChecked": false,
+      "todoContent": "Sketch",
+      "idcode": "k42hh1lbt6"
+    },
+    {
+      "id": "1e7extem6kg",
+      "isChecked": false,
+      "todoContent": "Adobe XD",
+      "idcode": "1e7extem6kg"
+    },
+    {
+      "id": "ya5nakkf5j",
+      "isChecked": false,
+      "todoContent": "VUE",
+      "idcode": "ya5nakkf5j"
+    },
+    {
+      "id": "5j6qqb1wymj",
+      "isChecked": false,
+      "todoContent": "Bootstrap",
+      "idcode": "5j6qqb1wymj"
+    },
+    {
+      "id": "c3rqohjrcpr",
+      "isChecked": false,
+      "todoContent": "RWD",
+      "idcode": "c3rqohjrcpr"
+    },
+    {
+      "id": "3ryat5w1mdu",
+      "isChecked": false,
+      "todoContent": "Web Developer",
+      "idcode": "3ryat5w1mdu"
+    }
+  ]
+}

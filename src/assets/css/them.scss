@@ -1,0 +1,6 @@
+$color-green: green;
+
+$primary:       $color-green;
+// 筆記:複寫bootstrap
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';
